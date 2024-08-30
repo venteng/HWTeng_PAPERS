@@ -43,8 +43,15 @@
 
 22. The impacts of social capital on infant mortal- ity in the U.S.: A spatial investigation. 
 
+# Articles in Conference Proceedings
+1. Machine learning in empirical asset pricing models.
+   
+2. A spherical Monte Carlo approach for calculating value-at-risk and expected short- fall in financial risk management.
 
-
-
-## 
-
+# Articles in Handbooks
+1. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression.
+   
+2. Estimation procedures of using five alternative machine learning methods for predicting credit card default.
+   
+3. Alternative machine learning methods for credit card default forecasting.
+   
